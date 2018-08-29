@@ -1,0 +1,8 @@
+l1 = "I'm the corner, watching you kiss her. Woah oh oh"
+l2 = "and I'm right over here. Why can't you see me? Woah oh oh"
+l3 = "and I'm giving it my all, but I'm not the guy you taking home. Ooh Oooh"
+l4 = "I'm here dancing on my own"
+
+# [1,0,1,0,1,1,1,1,0]
+# 1.0+4.0+3.2+5.0+7.1 = Sum for valence
+# 1.0+4.0+3.2+5.0+7.1 = Sum for arousal
